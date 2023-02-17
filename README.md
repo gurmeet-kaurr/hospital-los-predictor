@@ -43,7 +43,7 @@ File Description:
 
 ## Acknowledgments
 
-MIMIC-III, a freely accessible critical care database. Johnson AEW, Pollard TJ, Shen L, Lehman L, Feng M, Ghassemi M, Moody B, Szolovits P, Celi LA, and Mark RG. Scientific Data (2016). DOI: 10.1038/sdata.2016.35. Available from: http://www.nature.com/articles/sdata201635
+MIMIC-III, a freely accessible critical care database.Available from: http://www.nature.com/articles/sdata201635
 
 I found these resources particularly helpful for this project: 
 - https://towardsdatascience.com/running-random-forests-inspect-the-feature-importances-with-this-code-2b00dd72b92e
